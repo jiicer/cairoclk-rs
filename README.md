@@ -12,7 +12,7 @@ First demo app with Rust language.
  https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations
  
 ## Requirements
-GTK-3 installed
+GTK+ 3.0 installed
     
     brew install gtk+3
     
